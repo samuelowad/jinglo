@@ -1,0 +1,13 @@
+{
+  "name": "Admin dashboard",
+  "description": "A beautiful Dashboard with Bootstrap 4.",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Creative Tim",
+      "email": "samuelowolabi330@gmail.com"
+    }
+  ],
+  "require": {}
+}
